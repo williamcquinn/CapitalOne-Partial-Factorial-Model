@@ -1,4 +1,4 @@
-# CapitalOne-TestMailing-to-RollOutMailing
+# CapitalOne-Partial-Factorial-Model
 Capital One Credit Card Design: Predictive modeling to maximize profits from solicitation 92-1 by planning and implementing mailings of up to 12  different product offers to up to 750,000 prospects. 
 
 There are 750,000 people in a database; 250,000 in each of three BK groups (150, 200, and 250). You can 
